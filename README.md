@@ -1,2 +1,5 @@
 # hello-world
-following the guide lol
+following the guide 
+
+text = ("Hello World")
+print(text)
